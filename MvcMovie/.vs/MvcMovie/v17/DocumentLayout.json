@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E834EF-3D0F-4584-BBFF-BC09211DFCB1}|MvcMovie.csproj|c:\\users\\franc\\source\\repos\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E834EF-3D0F-4584-BBFF-BC09211DFCB1}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:18:08.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
